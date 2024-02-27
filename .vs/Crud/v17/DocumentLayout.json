@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stipo4\\source\\repos\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\models\\metadata\\usermethdata_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\models\\metadata\\usermethdata_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\models\\metadata\\usermetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\models\\metadata\\usermetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\service\\validationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\service\\validationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\pages\\primary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\pages\\primary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\pages\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\pages\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\pages\\primary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\pages\\primary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|c:\\users\\stipo4\\source\\repos\\crud\\crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAC4845D-CCA6-40CD-9454-09896DE9379F}|Crud\\Crud.csproj|solutionrelative:crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMethData_1.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Metadata\\UserMethData_1.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Metadata\\UserMethData_1.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Metadata\\UserMethData_1.cs",
+              "RelativeToolTip": "Crud\\Models\\Metadata\\UserMethData_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:25:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.config",
+              "RelativeDocumentMoniker": "Crud\\App.config",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.config",
+              "RelativeToolTip": "Crud\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-27T13:16:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationLine.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Service\\ValidationLine.cs",
+              "RelativeDocumentMoniker": "Crud\\Service\\ValidationLine.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Service\\ValidationLine.cs",
+              "RelativeToolTip": "Crud\\Service\\ValidationLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:15:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Metadata\\UserMetadata.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Metadata\\UserMetadata.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Metadata\\UserMetadata.cs",
+              "RelativeToolTip": "Crud\\Models\\Metadata\\UserMetadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:59:20.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\User.cs",
+              "RelativeToolTip": "Crud\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:53:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.xaml",
+              "RelativeDocumentMoniker": "Crud\\App.xaml",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.xaml",
+              "RelativeToolTip": "Crud\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T11:49:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Crud\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\App.xaml.cs",
+              "RelativeToolTip": "Crud\\App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:41:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pages\\Primary.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Primary.xaml.cs",
+              "RelativeDocumentMoniker": "Crud\\Pages\\Primary.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Primary.xaml.cs",
+              "RelativeToolTip": "Crud\\Pages\\Primary.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:37:10.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Add.xaml",
+              "RelativeDocumentMoniker": "Crud\\Pages\\Add.xaml",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Add.xaml",
+              "RelativeToolTip": "Crud\\Pages\\Add.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T11:36:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Primary.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Primary.xaml",
+              "RelativeDocumentMoniker": "Crud\\Pages\\Primary.xaml",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Pages\\Primary.xaml",
+              "RelativeToolTip": "Crud\\Pages\\Primary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T11:36:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Crud\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Crud\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-02-27T11:33:41.413Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Crud\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\MainWindow.xaml",
+              "RelativeToolTip": "Crud\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T11:01:56.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Crud\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo4\\source\\repos\\Crud\\Crud\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Crud\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:01:30.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
